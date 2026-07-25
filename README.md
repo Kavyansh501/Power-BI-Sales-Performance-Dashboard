@@ -8,10 +8,12 @@ Analyzed 3000+ orders from Jul 2024 to Jun 2025 to drive business decisions acro
 ## Key Features
 - *Sales Analytics*: Total Sales, Profit, Margin %, Quantity, Orders, Monthly Trend
 - *Product Analytics*: Category-wise Sales, Top 3 Products, SubCategory analysis
-- *Customer & Payment*: Payment Mode analysis, Discount impact, Segment analysis
- 
+- Drill-through Navigation: Navigate from summary visuals to a detailed Product Details page for in-depth analysis
+- Dynamic Dashboard Title
+- Report Page Tooltip for "Total Profit By Category" visual for enhanced category insights
 - *Interactivity*: Date Slicer, Category Slicer, Region Slicer, Reset Filters
 - *Tools*: Power BI, DAX Measures, Data Modeling, Power Query
+- Bookmark Navigation: Implemented a bookmark-based Reset Filters button for quick dashboard reset.
  ## Key Insight
 1. *Revenue*: $76.51M Total Sales with 29.74% Profit Margin
 2. *Top Performer*: West Region - 37.97% of total sales. Technology category most profitable
