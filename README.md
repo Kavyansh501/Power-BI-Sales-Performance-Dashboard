@@ -1,4 +1,5 @@
 # Power-BI-Sales-Performance-Dashboard
+![Dashboard Preview](Screenshot%202026-09-23%20124522.png)
 Interactive Sales Performance Dashboard built using Power BI, DAX, and Power Query.
 # Sales & Product Performance Dashboard - Power BI
 
